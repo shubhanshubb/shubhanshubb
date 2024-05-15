@@ -23,6 +23,10 @@ Let's connect and embark on a journey of innovation together! 🌟
 
 
 
+Contact: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shubhanshubb@gmail.com)
+
+
+
 
 
 
