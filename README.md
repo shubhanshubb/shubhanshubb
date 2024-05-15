@@ -2,7 +2,8 @@
 Allow me to provide an in-depth overview of my background, skills, and accomplishments.
 
 My expertise spans a versatile array of technologies, with a primary focus on React-Native [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/)
-, NodeJS, ReactJS/NextJS, Tailwind CSS, AWS, and Firebase. Proficient in both web and mobile development, I excel in crafting immersive user experiences using the foundational trio of HTML, CSS, and JavaScript.
+, NodeJS, AWS [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+, and Firebase [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/) Proficient in both web and mobile development, I excel in crafting immersive user experiences using the foundational trio of HTML, CSS, and JavaScript.
 
 My fascination with cloud computing, particularly AWS and Firebase, drives me to leverage their capabilities in building scalable and reliable solutions. Through my journey, I've cultivated proficiency in essential tools such as Git, Bash, GitHub, SQL, and Socket.io, empowering me to navigate project management methodologies and the Software Development Life Cycle (SDLC) with finesse.
 
@@ -13,3 +14,10 @@ Beyond technical prowess, I bring a passion for innovation and a collaborative m
 In summary, I am a dedicated and experienced React Native Developer with a proven track record of delivering excellence in both web and mobile development domains. I am eager to connect with like-minded professionals and explore opportunities for collaboration on exciting and innovative projects.
 
 Let's connect and embark on a journey of innovation together! 🌟
+
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)](https://socket.io/) [![App Store](https://img.shields.io/badge/-App_Store-0D96F6?logo=apple-app-store&logoColor=white)](https://www.apple.com/app-store/)  [![Google Play Store](https://img.shields.io/badge/-Google_Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store) [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+
+
+
+
