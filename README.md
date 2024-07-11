@@ -19,7 +19,7 @@ Let's connect and embark on a journey of innovation together! 🌟
 
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/shubhanshubb/)     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshubb/)     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/shubhanshubb/)     [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/shubhanshubb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/shubhanshubb/)     [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhanshubb/)     [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/shubhanshubb/)     [![Peerlist](https://github-readme-badge.peerlist.io/api/shubhanshubb?style=plastic)](https://peerlist.io/shubhanshubb)     [![Buy Me a Coffee](https://img.shields.io/badge/-Buy_Me_a_Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/shubhanshubb/)
 
 
 
