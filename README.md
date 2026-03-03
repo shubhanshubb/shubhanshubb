@@ -1,7 +1,3 @@
-Certainly, Shubhanshu! Here's a refined and rephrased version of your introduction, incorporating **"Lead App Developer"** and including **Swift** in your tech stack:
-
----
-
 👋 Greetings! I'm **Shubhanshu Barnwal**, currently working as a **Lead App Developer** at **Wiingy**, where I spearhead mobile development initiatives using cutting-edge technologies.
 
 My core expertise lies in **React Native** [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react\&logoColor=white)](https://reactnative.dev/), along with strong proficiency in **Node.js**, **AWS**, **Firebase**, and **Swift**—empowering me to craft robust, scalable, and high-performance mobile applications for both iOS and Android platforms.
