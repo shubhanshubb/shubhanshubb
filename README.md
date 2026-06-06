@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubhanshu Barnwal
 
-### Senior Software Engineer – iOS
+### Senior Mobile Engineer – iOS
 
 I build scalable, high-performance native iOS applications with a strong focus on architecture, performance optimization, and production reliability.
 
