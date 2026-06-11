@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Shubhanshu Barnwal
 
-### Senior Mobile Engineer – iOS
+### Senior Mobile Engineer – React Native
 
 I build scalable, high-performance native iOS applications with a strong focus on architecture, performance optimization, and production reliability.
 
-## 🚀 iOS Expertise
+## 🚀 React Native Expertise
 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 
-- Native iOS development using Swift  
+- Mobile development using React Native  
 - Modular and maintainable architecture design  
 - Performance profiling & memory optimization  
 - Crash diagnostics & production stability improvements  
@@ -20,7 +21,6 @@ I build scalable, high-performance native iOS applications with a strong focus o
 
 ## ⚙️ Cross-Platform & Backend Experience
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
