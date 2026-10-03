@@ -43,7 +43,7 @@ I design and build software from the ground up — from **React Native and nativ
 | Focus | What I work on |
 |---|---|
 | **Mobile Engineering** | React Native, native iOS, Android, framework modernization, SDK integrations, and runtime performance. |
-| **Backend & Data** | Node.js, Express, REST APIs, PostgreSQL, Redis, and real-time communication with Socket.io. |
+| **Backend & Data** | Node.js, Express, REST APIs, PostgreSQL, MySQL, Redis, and real-time communication with Socket.io. |
 | **System Design** | Designing systems from scratch: application architecture, service boundaries, database schemas, and integrations. |
 | **Cloud & Delivery** | AWS EC2, RDS, and S3; Google Cloud Platform; CI/CD pipelines and deployment automation. |
 | **Engineering Quality** | Pull request reviews, code standards, debugging, observability, and production reliability. |
@@ -175,7 +175,7 @@ The JavaScript/TypeScript API shape stays the same; eye-open probability is esti
 | **Native & Media** | Native Modules · Camera · Video · VLC · FFmpeg |
 | **Backend** | Node.js · Express · REST APIs · Socket.io |
 | **Cloud** | AWS EC2 · RDS · S3 · Google Cloud Platform (GCP) · Firebase |
-| **Data** | PostgreSQL · SQL · Redis · AsyncStorage |
+| **Data** | PostgreSQL · MySQL · SQL · Redis · AsyncStorage |
 | **Observability** | Bugsnag · Firebase Crashlytics · Mixpanel |
 | **Payments** | Stripe · Razorpay · Adyen |
 | **Delivery** | GitHub Actions · CI/CD pipelines · Deployment automation · OTA · App Store · Play Store |
