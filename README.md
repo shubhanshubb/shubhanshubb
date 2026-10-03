@@ -2,37 +2,25 @@
 
 # Shubhanshu Barnwal
 
-### Senior Mobile Engineer · React Native · iOS
+### Senior Software Engineer · Mobile · Backend · Cloud
 
-**Mobile Architecture · Performance · Platform Engineering · Open Source**
+**System Design · Cloud Infrastructure · CI/CD · Open Source**
 
-I engineer production mobile systems with a focus on **scalable architecture, React Native modernization, native iOS, performance, developer experience, and production reliability**.
+I design and build software from the ground up — from **React Native and native iOS apps to backend APIs, databases, and cloud infrastructure on AWS and GCP**. My focus is maintainable architecture, performance, automated delivery, and production reliability.
 
 <br/>
 
-<a href="https://shubhanshubb.dev" title="Portfolio">
-  <img src="https://cdn.simpleicons.org/safari/0A84FF" width="28" height="28" alt="Portfolio" />
-</a>
+<a href="https://shubhanshubb.dev" title="Portfolio"><img src="assets/icons/safari.svg" width="28" height="28" alt="Portfolio" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/shubhanshubb" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/808080" width="28" height="28" alt="GitHub" />
-</a>
+<a href="https://github.com/shubhanshubb" title="GitHub"><img src="assets/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.npmjs.com/~shubhanshubb" title="npm">
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="28" height="28" alt="npm" />
-</a>
+<a href="https://www.npmjs.com/~shubhanshubb" title="npm"><img src="assets/icons/npm.svg" width="28" height="28" alt="npm" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shubhanshubb/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/shubhanshubb/" title="LinkedIn"><img src="assets/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/shubhanshubb" title="X">
-  <img src="https://cdn.simpleicons.org/x/808080" width="28" height="28" alt="X" />
-</a>
+<a href="https://x.com/shubhanshubb" title="X"><img src="assets/icons/x.svg" width="28" height="28" alt="X" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:connect@shubhanshubb.dev" title="Email">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
-</a>
+<a href="mailto:connect@shubhanshubb.dev" title="Email"><img src="assets/icons/gmail.svg" width="28" height="28" alt="Email" /></a>
 
 <br/><br/>
 
@@ -52,38 +40,13 @@ I engineer production mobile systems with a focus on **scalable architecture, Re
 
 ## Engineering Focus
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-### Mobile Architecture
-
-Large React Native codebases, modular architecture, navigation systems, dependency modernization and platform migrations.
-
-</td>
-<td width="25%" valign="top">
-
-### Performance & Reliability
-
-Runtime profiling, memory optimization, crash diagnostics, startup performance and production stability.
-
-</td>
-<td width="25%" valign="top">
-
-### Native & Platform
-
-iOS, Swift, native SDK integrations, React Native internals and platform-specific engineering.
-
-</td>
-<td width="25%" valign="top">
-
-### Production Systems
-
-CI/CD, OTA delivery, observability, payments, deep linking, push notifications and real-time infrastructure.
-
-</td>
-</tr>
-</table>
+| Focus | What I work on |
+|---|---|
+| **Mobile Engineering** | React Native, native iOS, Android, framework modernization, SDK integrations, and runtime performance. |
+| **Backend & Data** | Node.js, Express, REST APIs, PostgreSQL, MySQL, Redis, and real-time communication with Socket.io. |
+| **System Design** | Designing systems from scratch: application architecture, service boundaries, database schemas, and integrations. |
+| **Cloud & Delivery** | AWS EC2, RDS, and S3; Google Cloud Platform; CI/CD pipelines and deployment automation. |
+| **Engineering Quality** | Pull request reviews, code standards, debugging, observability, and production reliability. |
 
 ---
 
@@ -148,41 +111,57 @@ Build the real interface once and derive its loading state instead of maintainin
 
 ---
 
+## Contributions
+
+### [react-native-vision-camera-face-detector](https://github.com/luicfrr/react-native-vision-camera-face-detector)
+
+**[Merged PR #248 — Replace the iOS ML Kit dependency with Apple Vision](https://github.com/luicfrr/react-native-vision-camera-face-detector/pull/248)**
+
+Replaced the iOS face-detection implementation with Apple's native Vision framework to resolve the ML Kit dependency's arm64 iOS Simulator limitation. Updated landmark mapping, pose angles, camera orientation, and static-image detection while keeping Android on ML Kit.
+
+The JavaScript/TypeScript API shape stays the same; eye-open probability is estimated, while smile probability and tracking IDs are unavailable on iOS.
+
+---
+
 ## Technical Stack
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="React Native" title="React Native" />
+<img src="assets/icons/react.svg" height="38" alt="React Native" title="React Native" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/swift/F05138" height="38" alt="Swift" title="Swift" />
+<img src="assets/icons/swift.svg" height="38" alt="Swift" title="Swift" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/808080" height="38" alt="iOS" title="iOS" />
+<img src="assets/icons/apple.svg" height="38" alt="iOS" title="iOS" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="38" alt="TypeScript" title="TypeScript" />
+<img src="assets/icons/typescript.svg" height="38" alt="TypeScript" title="TypeScript" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="38" alt="JavaScript" title="JavaScript" />
+<img src="assets/icons/javascript.svg" height="38" alt="JavaScript" title="JavaScript" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="38" alt="Node.js" title="Node.js" />
+<img src="assets/icons/nodedotjs.svg" height="38" alt="Node.js" title="Node.js" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase/DD2C00" height="38" alt="Firebase" title="Firebase" />
+<img src="assets/icons/googlecloud.svg" height="38" alt="Google Cloud" title="Google Cloud" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="38" alt="AWS" title="AWS" />
+<img src="assets/icons/redis.svg" height="38" alt="Redis" title="Redis" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="38" alt="PostgreSQL" title="PostgreSQL" />
+<img src="assets/icons/firebase.svg" height="38" alt="Firebase" title="Firebase" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/socketdotio/808080" height="38" alt="Socket.io" title="Socket.io" />
+<img src="assets/icons/amazonwebservices.svg" height="38" alt="AWS" title="AWS" />
+&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/postgresql.svg" height="38" alt="PostgreSQL" title="PostgreSQL" />
+&nbsp;&nbsp;&nbsp;
+<img src="assets/icons/socketdotio.svg" height="38" alt="Socket.io" title="Socket.io" />
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" title="Git" />
+<img src="assets/icons/git.svg" height="34" alt="Git" title="Git" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="34" alt="GitHub Actions" title="GitHub Actions" />
+<img src="assets/icons/githubactions.svg" height="34" alt="GitHub Actions" title="GitHub Actions" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/xcode/147EFB" height="34" alt="Xcode" title="Xcode" />
+<img src="assets/icons/xcode.svg" height="34" alt="Xcode" title="Xcode" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/808080" height="34" alt="Next.js" title="Next.js" />
+<img src="assets/icons/nextdotjs.svg" height="34" alt="Next.js" title="Next.js" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="34" alt="React" title="React" />
+<img src="assets/icons/react.svg" height="34" alt="React" title="React" />
 
 </div>
 
@@ -190,16 +169,17 @@ Build the real interface once and derive its loading state instead of maintainin
 
 | Domain | Technologies |
 |---|---|
-| **Mobile** | React Native · Swift · SwiftUI · iOS · Xcode |
+| **Mobile** | React Native · Swift · SwiftUI · iOS · Android · Xcode |
 | **Architecture** | New Architecture · Hermes · Fabric · React Navigation · Redux · Redux-Saga |
 | **UI & Motion** | Reanimated · Gesture Handler · Native animations |
 | **Native & Media** | Native Modules · Camera · Video · VLC · FFmpeg |
 | **Backend** | Node.js · Express · REST APIs · Socket.io |
-| **Cloud** | AWS · Firebase · S3 |
-| **Data** | PostgreSQL · SQL · AsyncStorage |
+| **Cloud** | AWS EC2 · RDS · S3 · Google Cloud Platform (GCP) · Firebase |
+| **Data** | PostgreSQL · MySQL · SQL · Redis · AsyncStorage |
 | **Observability** | Bugsnag · Firebase Crashlytics · Mixpanel |
 | **Payments** | Stripe · Razorpay · Adyen |
-| **Delivery** | GitHub Actions · CI/CD · OTA · App Store · Play Store |
+| **Delivery** | GitHub Actions · CI/CD pipelines · Deployment automation · OTA · App Store · Play Store |
+| **System Design & Quality** | Application architecture · API design · Database modeling · PR reviews · Code standards |
 
 ---
 
@@ -269,21 +249,7 @@ Implemented production deep-linking flows across mobile applications, including 
 
 ## Current Focus
 
-```ts
-const currently = {
-  building: "Open-source tooling for React Native",
-
-  engineering: [
-    "React Native architecture",
-    "Performance & reliability",
-    "Native iOS integrations",
-    "Developer tooling",
-  ],
-
-  exploring: [
-    "React Native internals",
-    "New Architecture",
-    "Swift & SwiftUI",
-    "Mobile platform engineering",
-  ],
-};
+- Building mobile applications, backend services, and open-source developer tools.
+- Designing systems from initial architecture through cloud deployment.
+- Improving CI/CD pipelines, code review practices, and production reliability.
+- Deepening React Native, Swift, AWS, and GCP expertise.
